@@ -1,4 +1,6 @@
 -
+- {{query (page-property category "集合")}}
+-
 - {{query (page-property category "重要地点")}}
   query-properties:: [:page :category]
 -
